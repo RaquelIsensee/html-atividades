@@ -1,0 +1,37 @@
+.caixa{
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    border: 2px solid;
+
+}
+#faturamento{
+    background-color: bisque;
+}
+#clientes{
+    background-color: beige;
+}
+#devolucao{
+ background-color: burlywood;
+}
+#acesso{
+    background-color: blanchedalmond;
+}
+#grafico01{
+    width: 50%;
+    margin-top:5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#grafico02{
+    width: 16.6%;
+    margin-left: 20%;
+}
+#grafico03{
+    width: 16.6%;
+}
+#grafico04{
+    width: 16.6%;
+}
